@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="84e63d07a66a4340b2536e0ae5f70d7a" Name="Diagram1">
+        <EntityTypeShape EntityType="SCADABepTuDongV3Model.CookerAddress" Width="1.5" PointX="5.75" PointY="0.75" />
+        <EntityTypeShape EntityType="SCADABepTuDongV3Model.Ingredient" Width="1.5" PointX="5.75" PointY="3.75" />
+        <EntityTypeShape EntityType="SCADABepTuDongV3Model.IngredientUnit" Width="1.5" PointX="5.75" PointY="6.75" />
+        <EntityTypeShape EntityType="SCADABepTuDongV3Model.Recipe" Width="1.5" PointX="0.75" PointY="5" />
+        <EntityTypeShape EntityType="SCADABepTuDongV3Model.RobotActionCode" Width="1.5" PointX="7.75" PointY="0.75" />
+        <EntityTypeShape EntityType="SCADABepTuDongV3Model.StepRecipe" Width="1.5" PointX="3" PointY="5.125" />
+        <EntityTypeShape EntityType="SCADABepTuDongV3Model.sysdiagram" Width="1.5" PointX="7.75" PointY="3.75" />
+        <EntityTypeShape EntityType="SCADABepTuDongV3Model.UserRole" Width="1.5" PointX="0.75" PointY="1.5" />
+        <EntityTypeShape EntityType="SCADABepTuDongV3Model.User" Width="1.5" PointX="3" PointY="1" />
+        <AssociationConnector Association="SCADABepTuDongV3Model.FK__StepRecip___Seco__2C3393D0" />
+        <AssociationConnector Association="SCADABepTuDongV3Model.FK__Users__MoreInfo__30F848ED" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

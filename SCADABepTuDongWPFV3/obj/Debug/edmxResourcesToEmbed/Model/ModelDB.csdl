@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SCADABepTuDongV3Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="SCADABepTuDongV3Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CookerAddresses" EntityType="SCADABepTuDongV3Model.CookerAddress" />
+    <EntitySet Name="Ingredients" EntityType="SCADABepTuDongV3Model.Ingredient" />
+    <EntitySet Name="IngredientUnits" EntityType="SCADABepTuDongV3Model.IngredientUnit" />
+    <EntitySet Name="Recipes" EntityType="SCADABepTuDongV3Model.Recipe" />
+    <EntitySet Name="RobotActionCodes" EntityType="SCADABepTuDongV3Model.RobotActionCode" />
+    <EntitySet Name="StepRecipes" EntityType="SCADABepTuDongV3Model.StepRecipe" />
+    <EntitySet Name="sysdiagrams" EntityType="SCADABepTuDongV3Model.sysdiagram" />
+    <EntitySet Name="UserRoles" EntityType="SCADABepTuDongV3Model.UserRole" />
+    <EntitySet Name="Users" EntityType="SCADABepTuDongV3Model.User" />
+    <AssociationSet Name="FK__StepRecip___Seco__2C3393D0" Association="SCADABepTuDongV3Model.FK__StepRecip___Seco__2C3393D0">
+      <End Role="Recipe" EntitySet="Recipes" />
+      <End Role="StepRecipe" EntitySet="StepRecipes" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Users__MoreInfo__30F848ED" Association="SCADABepTuDongV3Model.FK__Users__MoreInfo__30F848ED">
+      <End Role="UserRole" EntitySet="UserRoles" />
+      <End Role="User" EntitySet="Users" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="CookerAddress">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CookerName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CookerAddress1" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Ingredient">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DisplayName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Unit" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="IngredientUnit">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UnitName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Recipe">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DisplayName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Describe" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Box1" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Box2" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Box3" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Box4" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Unit1" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Unit2" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Unit3" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Unit4" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="StepRecipes" Relationship="SCADABepTuDongV3Model.FK__StepRecip___Seco__2C3393D0" FromRole="Recipe" ToRole="StepRecipe" />
+  </EntityType>
+  <EntityType Name="RobotActionCode">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ActionName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="GCode" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="StepRecipe">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdRecipe" Type="Int32" Nullable="false" />
+    <Property Name="NumberStep" Type="Int32" />
+    <Property Name="DisplayName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="C_Param" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="C_Temp" Type="Int32" />
+    <Property Name="C_Hours" Type="Int32" />
+    <Property Name="C_Minutes" Type="Int32" />
+    <Property Name="C_Seconds" Type="Int32" />
+    <NavigationProperty Name="Recipe" Relationship="SCADABepTuDongV3Model.FK__StepRecip___Seco__2C3393D0" FromRole="StepRecipe" ToRole="Recipe" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="UserRole">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DisplayName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Users" Relationship="SCADABepTuDongV3Model.FK__Users__MoreInfo__30F848ED" FromRole="UserRole" ToRole="User" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdRole" Type="Int32" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="DisplayName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Phone" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="MoreInfo" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="UserRole" Relationship="SCADABepTuDongV3Model.FK__Users__MoreInfo__30F848ED" FromRole="User" ToRole="UserRole" />
+  </EntityType>
+  <Association Name="FK__StepRecip___Seco__2C3393D0">
+    <End Type="SCADABepTuDongV3Model.Recipe" Role="Recipe" Multiplicity="1" />
+    <End Type="SCADABepTuDongV3Model.StepRecipe" Role="StepRecipe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Recipe">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="StepRecipe">
+        <PropertyRef Name="IdRecipe" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Users__MoreInfo__30F848ED">
+    <End Type="SCADABepTuDongV3Model.UserRole" Role="UserRole" Multiplicity="1" />
+    <End Type="SCADABepTuDongV3Model.User" Role="User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserRole">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="IdRole" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
