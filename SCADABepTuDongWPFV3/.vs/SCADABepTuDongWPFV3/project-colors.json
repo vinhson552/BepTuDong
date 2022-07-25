@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "562107fe-a032-4e4a-82f7-386fef3091eb": {
+      "ProjectGuid": "562107fe-a032-4e4a-82f7-386fef3091eb",
+      "DisplayName": "SCADABepTuDongWPFV3",
+      "ColorIndex": 0
+    },
+    "52139eb5-5e09-4df6-937e-5a41f5f2daff": {
+      "ProjectGuid": "52139eb5-5e09-4df6-937e-5a41f5f2daff",
+      "DisplayName": "RS485",
+      "ColorIndex": 1
+    },
+    "4dbdf458-7323-4343-95fd-e7eb5c9a2aca": {
+      "ProjectGuid": "4dbdf458-7323-4343-95fd-e7eb5c9a2aca",
+      "DisplayName": "CookerRTUTest",
+      "ColorIndex": 2
+    },
+    "9baea0d6-a162-48e6-9108-50b95f541d7e": {
+      "ProjectGuid": "9baea0d6-a162-48e6-9108-50b95f541d7e",
+      "DisplayName": "ModbusRTU",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

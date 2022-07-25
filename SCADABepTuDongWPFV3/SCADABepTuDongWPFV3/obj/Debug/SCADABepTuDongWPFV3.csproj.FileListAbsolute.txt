@@ -1,0 +1,375 @@
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.AssemblyReference.cache
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\MainWindow.g.cs
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdLogin.g.cs
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\App.g.cs
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_Content.g.cs
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_MarkupCompile.cache
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_MarkupCompile.lref
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.exe.config
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.exe
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.pdb
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.dll
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.SqlServer.dll
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignColors.dll
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.xml
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.SqlServer.xml
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignColors.pdb
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\App.baml
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\MainWindow.baml
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdLogin.baml
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.g.resources
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.Properties.Resources.resources
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.GenerateResource.cache
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.CoreCompileInputs.cache
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.CopyComplete
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.exe
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.pdb
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdSettingRecipe.g.cs
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdStepRecipeInfo.g.cs
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdSettingRecipe.baml
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdStepRecipeInfo.baml
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdRecipeOverview.g.cs
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdRecipeOverview.baml
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdIngredient.g.cs
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdIngredient.baml
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\ResourceXAML\MainResource.baml
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdHome.g.cs
+D:\10. PROJECT\17. Bep_tu_dong\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdHome.baml
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.exe.config
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.exe
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.pdb
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.dll
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignColors.dll
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.xml
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignColors.pdb
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.AssemblyReference.cache
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\MainWindow.g.cs
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdHome.g.cs
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdIngredient.g.cs
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdLogin.g.cs
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdRecipeOverview.g.cs
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdSettingRecipe.g.cs
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdStepRecipeInfo.g.cs
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\App.g.cs
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_Content.g.cs
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_MarkupCompile.cache
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_MarkupCompile.lref
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\App.baml
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\MainWindow.baml
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdHome.baml
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdIngredient.baml
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdLogin.baml
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdRecipeOverview.baml
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdSettingRecipe.baml
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdStepRecipeInfo.baml
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.g.resources
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.Properties.Resources.resources
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.GenerateResource.cache
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.CoreCompileInputs.cache
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.CopyComplete
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.exe
+C:\Users\minho\OneDrive\Máy tính\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.pdb
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.exe.config
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.exe
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.pdb
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.dll
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignColors.dll
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.xml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignColors.pdb
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csprojAssemblyReference.cache
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\MainWindow.g.cs
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdHome.g.cs
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdIngredient.g.cs
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdLogin.g.cs
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdRecipeOverview.g.cs
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdSettingRecipe.g.cs
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdStepRecipeInfo.g.cs
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\App.g.cs
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_Content.g.cs
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_MarkupCompile.cache
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_MarkupCompile.lref
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\App.baml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\MainWindow.baml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\ResourceXAML\MainResource.baml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdHome.baml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdIngredient.baml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdLogin.baml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdRecipeOverview.baml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdSettingRecipe.baml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdStepRecipeInfo.baml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.g.resources
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.Properties.Resources.resources
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.GenerateResource.cache
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.CoreCompileInputs.cache
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.CopyComplete
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.exe
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.pdb
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SendRTU.g.cs
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SendRTU.baml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Cook1.g.cs
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Cook2.g.cs
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Cook3.g.cs
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Cook4.g.cs
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Cook1.baml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Cook2.baml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Cook3.baml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Cook4.baml
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\CookRecipe.g.cs
+D:\Ca_nhan\File_Phan_mem\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\CookRecipe.baml
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.exe.config
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.exe
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.pdb
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignColors.dll
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignColors.pdb
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\CookRecipe.g.cs
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdHome.g.cs
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdIngredient.g.cs
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdLogin.g.cs
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdRecipeOverview.g.cs
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdSettingRecipe.g.cs
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdStepRecipeInfo.g.cs
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_Content.g.cs
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_MarkupCompile.cache
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_MarkupCompile.lref
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\App.baml
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\CookRecipe.baml
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdHome.baml
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdIngredient.baml
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdLogin.baml
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdRecipeOverview.baml
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdSettingRecipe.baml
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdStepRecipeInfo.baml
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.g.resources
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.Properties.Resources.resources
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.CopyComplete
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.exe
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.pdb
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Monitor.g.cs
+C:\Users\HP\Desktop\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Monitor.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.exe.config
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.exe
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.pdb
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.dll
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignColors.dll
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.xml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignColors.pdb
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Monitor.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\CookRecipe.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdHome.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdIngredient.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdLogin.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdRecipeOverview.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdSettingRecipe.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdStepRecipeInfo.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\App.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_Content.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_MarkupCompile.cache
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_MarkupCompile.lref
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\App.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Monitor.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\CookRecipe.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\MainWindow.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdHome.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdIngredient.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdLogin.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdRecipeOverview.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdSettingRecipe.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdStepRecipeInfo.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.g.resources
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.Properties.Resources.resources
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.CopyComplete
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.exe
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.pdb
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdTestCook.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdTestCook.baml
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.exe.config
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.exe
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.pdb
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.dll
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignColors.dll
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.xml
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.AssemblyReference.cache
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Monitor.g.cs
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\CookRecipe.g.cs
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\MainWindow.g.cs
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdHome.g.cs
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdIngredient.g.cs
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdLogin.g.cs
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdRecipeOverview.g.cs
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdSettingRecipe.g.cs
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdStepRecipeInfo.g.cs
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdTestCook.g.cs
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\App.g.cs
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_Content.g.cs
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_MarkupCompile.cache
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_MarkupCompile.lref
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\App.baml
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Monitor.baml
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\CookRecipe.baml
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\MainWindow.baml
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdHome.baml
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdIngredient.baml
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdLogin.baml
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdRecipeOverview.baml
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdSettingRecipe.baml
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdStepRecipeInfo.baml
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdTestCook.baml
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.g.resources
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.Properties.Resources.resources
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.GenerateResource.cache
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.CopyComplete
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.exe
+C:\Users\Nguyen Ba Chung\Documents\Zalo Received Files\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.pdb
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.exe.config
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.exe
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.pdb
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.dll
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignColors.dll
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.xml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignColors.pdb
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Monitor.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\CookRecipe.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdHome.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdIngredient.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdLogin.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdRecipeOverview.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdSettingRecipe.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdStepRecipeInfo.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdTestCook.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\App.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_Content.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_MarkupCompile.cache
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_MarkupCompile.lref
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\App.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Monitor.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\CookRecipe.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\MainWindow.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdHome.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdIngredient.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdLogin.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdRecipeOverview.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdSettingRecipe.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdStepRecipeInfo.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdTestCook.baml
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.g.resources
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.Properties.Resources.resources
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.CopyComplete
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.exe
+C:\Users\HP\Documents\Zalo Received Files\SCADABepTuDongWPFV3 (1)\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.pdb
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.exe.config
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.exe
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\SCADABepTuDongWPFV3.pdb
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.dll
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.SqlServer.dll
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignColors.dll
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.xml
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\EntityFramework.SqlServer.xml
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignColors.pdb
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.AssemblyReference.cache
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.SuggestedBindingRedirects.cache
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Monitor.g.cs
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\CookRecipe.g.cs
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\MainWindow.g.cs
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdHome.g.cs
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdIngredient.g.cs
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdLogin.g.cs
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdRecipeOverview.g.cs
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdSettingRecipe.g.cs
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdStepRecipeInfo.g.cs
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdTestCook.g.cs
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\App.g.cs
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_Content.g.cs
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_MarkupCompile.cache
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3_MarkupCompile.lref
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\App.baml
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\Monitor.baml
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\CookRecipe.baml
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\MainWindow.baml
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\ResourceXAML\MainResource.baml
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdHome.baml
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdIngredient.baml
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdLogin.baml
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdRecipeOverview.baml
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdSettingRecipe.baml
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdStepRecipeInfo.baml
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdTestCook.baml
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.g.resources
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.Properties.Resources.resources
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.GenerateResource.cache
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.CoreCompileInputs.cache
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.csproj.CopyComplete
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.exe
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\SCADABepTuDongWPFV3.pdb
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdEditIngredient.g.cs
+D:\HUST's Class Materials\Project III\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\SCADABepTuDongWPFV3\obj\Debug\wdEditIngredient.baml

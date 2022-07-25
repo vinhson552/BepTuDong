@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be3206fa-bb79-4b83-8509-edf4d8bfde05": {
+      "ProjectGuid": "be3206fa-bb79-4b83-8509-edf4d8bfde05",
+      "DisplayName": "RS485",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
